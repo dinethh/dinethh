@@ -1,6 +1,6 @@
 
 <img
-  src="https://github.com/dinethh/dinethh/blob/main/git.jpg"
+  src="https://github.com/dinethh/dinethh/blob/main/newlinkedlin.jpg"
   alt="Alt text"
 style="display: inline-block; margin: 0 auto; max-width: 300px">
 
