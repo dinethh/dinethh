@@ -1,8 +1,8 @@
 
-<img
+<!-- <img
   src="https://github.com/dinethh/dinethh/blob/main/newlinkedlin.jpg"
   alt="Alt text"
-style="display: inline-block; margin: 0 auto; max-width: 300px">
+style="display: inline-block; margin: 0 auto; max-width: 300px"> -->
 
 
 <h2 align="center">Hi 👋! My name is Dineth Panditha </h2>
