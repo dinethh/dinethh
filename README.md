@@ -72,6 +72,8 @@
   <code><img height="40" src="https://skillicons.dev/icons?i=html" alt="HTML"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=css" alt="CSS"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
+   <code><img height="40" src="https://skillicons.dev/icons?i=python" alt="python"></code>
+  
   <br>
   <br>
   <code><img height="40" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></code>
@@ -85,8 +87,11 @@
   <code><img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VS Code"></code>
+   <code><img height="40" src="https://skillicons.dev/icons?i=rider" alt="rider"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=postman" alt="Postman"></code>
+   <code><img height="40" src="https://skillicons.dev/icons?i=pycharm" alt="pycharm"></code>
+    <code><img height="40" src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio"></code>
 </div>
 
 <br/>
