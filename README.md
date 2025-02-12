@@ -1,4 +1,6 @@
-<h1 align="center">Hello 👋, I'm Dineth Panditha </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+👋+I'm+Dineth+Panditha;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 <h3 align="center">
   <a href="https://dinethpanditha.dev" target="_blank">Visit My Portfolio</a>
@@ -93,3 +95,6 @@
 <h5 align="center">
   Thank you for visiting my GitHub profile! 🤝 Have a great day!
 </h5>
+
+
+
